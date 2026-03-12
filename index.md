@@ -3,5 +3,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] 任务1
+- [ ] 任务2
+
 
 
